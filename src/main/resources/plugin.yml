@@ -1,0 +1,4 @@
+name: EntityLimiter
+version: '${version}'
+main: me.pashmash.entitylimiter.EntityLimiter
+api-version: '1.20'

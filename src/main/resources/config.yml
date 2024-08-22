@@ -1,0 +1,4 @@
+entity-limits:
+  ZOMBIE: 10
+  SKELETON: 5
+  CREEPER: 3
